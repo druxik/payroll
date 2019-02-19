@@ -1,6 +1,5 @@
 <template>
     <div id="app">
-        {{count}}
         <Main></Main>
     </div>
 </template>
